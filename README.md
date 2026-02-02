@@ -42,4 +42,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nellow15&label=Profile+Views&color=5865F2&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nellow15?label=GitHub+Followers&color=70a5fd&style=flat-square&labelColor=1a1b2e" alt="GitHub Followers" />
 </div>
