@@ -30,7 +30,7 @@ I am an aspiring web developer currently learning and building projects with mod
 
 #### Development Tools
 
-![Debian]([https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Debian-100000?style=for-the-badge&logo=Debian&logoColor=000000&labelColor=FFFFFF&color=d70a53))&nbsp;
+![Debian](https://img.shields.io/badge/Debian-100000?style=for-the-badge&logo=Debian&logoColor=000000&labelColor=FFFFFF&color=d70a53)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
