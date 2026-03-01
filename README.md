@@ -15,11 +15,12 @@
 I am an aspiring web developer currently learning and building projects with modern web technologies. I'm passionate about creating functional applications and continuously improving my coding skills.
 
 **Currently Focusing On**:
-- Learning backend development fundamentals
-- Building web applications with HTML, CSS, and JavaScript
-- Understanding Node.js and PHP basics
-- Practicing version control with Git
-
+- Strengthening backend development concepts and system architecture
+- Building scalable web applications with modern JavaScript
+- Deepening knowledge in Node.js and server-side development
+- Improving code quality, clean structure, and best practices
+- Mastering Git workflows and collaborative development
+  
 ## Tech Stack
 
 **Languages**  
