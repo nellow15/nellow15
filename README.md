@@ -52,6 +52,6 @@ I am an aspiring web developer currently learning and building projects with mod
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nellow15&label=Profile+Views&color=5865F2&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nellow15?label=GitHub+Followers&color=5865F2&style=flat" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=nellow15&label=Profile+Views&color=000000&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nellow15?label=GitHub+Followers&color=000000&style=flat" alt="GitHub Followers" />
 </div>
