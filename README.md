@@ -33,6 +33,7 @@ I am an aspiring web developer currently learning and building projects with mod
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=FFFFFF&color=ED8B00)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=FFFFFF&color=00599C)&nbsp;
 ![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=FFFFFF&color=0175C2)&nbsp;
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=FFFFFF&color=02569B)&nbsp;
 
 ## Connect with me
 
