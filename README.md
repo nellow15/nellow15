@@ -1,8 +1,12 @@
 ### Hi there, I'm Nellow15
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nellow15&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nellow15?label=GitHub+Followers&color=000000&style=for-the-badge" alt="GitHub Followers" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
 </p>
 
 I am an aspiring web developer currently learning and building projects with modern web technologies. I'm passionate about creating functional applications and continuously improving my coding skills.
