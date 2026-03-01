@@ -21,16 +21,16 @@ I am an aspiring web developer currently learning and building projects with mod
 
 ## Tech Stack
 
-### Backend
+#### Backend
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=FFFFFF&color=339933)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=FFFFFF&color=CB3837)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.JS-000000?style=for-the-badge&logo=express&logoColor=000000&labelColor=FFFFFF&color=000000)&nbsp;
 
-### Tools
+#### Tools
 ![Git](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=FFFFFF&color=F05032)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-### OS
+#### OS
 ![Debian](https://img.shields.io/badge/Debian-100000?style=for-the-badge&logo=Debian&logoColor=000000&labelColor=FFFFFF&color=d70a53)&nbsp;
 
 ## Connect with me
