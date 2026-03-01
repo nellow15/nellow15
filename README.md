@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/OdfLq1y.gif" width="250" alt="Coding Animation" />
+  <img src="https://www.upload.ee/image/19120250/FromMainKlickpinCF-LuffyStrawHat-7kqM4HMGm-ezgif.com-video-to-gif-converter.gif" width="250" alt="Coding Animation" />
 </p>
 
 I am an aspiring web developer currently learning and building projects with modern web technologies. I'm passionate about creating functional applications and continuously improving my coding skills.
