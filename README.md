@@ -17,7 +17,7 @@ I am an aspiring web developer currently learning and building projects with mod
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![LUA](https://img.shields.io/badge/LUA-020E9C?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
-![PYTHON](https://img.shields.io/badge/PYTHON-8FD8D2?style=for-the-badge&logo=python&logoColor=black)&nbsp;
+![PYTHON](https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=FFFFFF&color=FFD43B)&nbsp;
 
 #### Technologies I'm Learning
 
