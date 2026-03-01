@@ -21,6 +21,7 @@ I am an aspiring web developer currently learning and building projects with mod
 
 **Backend & Tools**  
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=FFFFFF&color=339933)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=FFFFFF&color=CB3837)&nbsp;
 ![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=000000&labelColor=FFFFFF&color=000000)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=FFFFFF&color=F05032)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7&labelColor=FFFFFF&color=0078D7)&nbsp;
