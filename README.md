@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nellow15&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Public%20Repos-20-blue?style=for-the-badge" alt="PUBLIC REPOS" />
   <img src="https://img.shields.io/github/followers/nellow15?label=GitHub+Followers&color=000000&style=for-the-badge" alt="GitHub Followers" />
 </p>
 
