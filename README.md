@@ -33,6 +33,12 @@ I am an aspiring web developer currently learning and building projects with mod
 #### OS:
 ![Debian](https://img.shields.io/badge/Debian-100000?style=for-the-badge&logo=Debian&logoColor=000000&labelColor=FFFFFF&color=d70a53)&nbsp;
 
+## Currently Learning
+
+![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=FFFFFF&color=646CFF)&nbsp;
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FFFFFF&color=61DAFB)&nbsp;
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=FFFFFF&color=ED8B00)&nbsp;
+
 ## Connect with me
 
 <p align="center">
