@@ -1,6 +1,7 @@
 <h3 align="center">Hi there, I'm Nellow15</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Joined-2024-black?style=for-the-badge" alt="Joined" />
   <img src="https://komarev.com/ghpvc/?username=nellow15&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Public%20Repository-20-black?style=for-the-badge" alt="PUBLIC REPOSITORY" />
   <img src="https://img.shields.io/github/followers/nellow15?label=GitHub+Followers&color=000000&style=for-the-badge" alt="GitHub Followers" />
