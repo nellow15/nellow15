@@ -34,13 +34,13 @@ I am an aspiring web developer currently learning and building projects with mod
 
 <p align="center">
   <a href="https://discord.gg/ZKaERSqdW5" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=FFFFFF&color=000000" alt="Discord" />
   </a>
   <a href="https://instagram.com/nellow15_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=FFFFFF&color=000000" alt="Instagram" />
   </a>
   <a href="https://github.com/nellow15" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000" alt="GitHub" />
   </a>
 </p>
 
