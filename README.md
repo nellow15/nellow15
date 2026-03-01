@@ -9,6 +9,8 @@
   <img src="https://raw.githubusercontent.com/nellow15/nellow15/main/animation.gif" width="75%" style="max-width:700px;" />
 </p>
 
+<hr>
+
 I am an aspiring web developer currently learning and building projects with modern web technologies. I'm passionate about creating functional applications and continuously improving my coding skills.
 
 **Currently Focusing On**:
