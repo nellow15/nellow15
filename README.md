@@ -8,12 +8,6 @@ I am an aspiring web developer currently learning and building projects with mod
 - Understanding Node.js and PHP basics
 - Practicing version control with Git
 
-**Looking For**:
-- Beginner-friendly collaboration projects
-- Learning resources and mentorship
-- Practice opportunities to build real projects
-- Feedback on my code and projects
-
 ## Skills
 
 #### Languages:
