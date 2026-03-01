@@ -11,19 +11,20 @@ I am an aspiring web developer currently learning and building projects with mod
 ## Tech Stack
 
 **Languages**  
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FFFFFF&color=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000&labelColor=FFFFFF&color=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=777BB4&labelColor=FFFFFF&color=777BB4)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=E34F26&labelColor=FFFFFF&color=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=1572B6&labelColor=FFFFFF&color=1572B6)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=AAB0FF&labelColor=FFFFFF&color=2C2D72)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=3776AB&labelColor=FFFFFF&color=FFD43B)
 
 **Backend & Tools**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-d70a53?style=flat&logo=debian&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=339933&labelColor=FFFFFF&color=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=000000&labelColor=FFFFFF&color=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=F05032&labelColor=FFFFFF&color=F05032)
+![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=0078D7&labelColor=FFFFFF&color=0078D7)
+![Debian](https://img.shields.io/badge/Debian-d70a53?style=flat&logo=debian&logoColor=d70a53&labelColor=FFFFFF&color=d70a53)
+
 ## Currently Learning
 
 ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=FFFFFF&color=646CFF)&nbsp;
