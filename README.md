@@ -1,3 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=nellow15&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nellow15?label=GitHub+Followers&color=000000&style=for-the-badge" alt="GitHub Followers" />
+
 ### Hi there, I'm Nellow15
 
 I am an aspiring web developer currently learning and building projects with modern web technologies. I'm passionate about creating functional applications and continuously improving my coding skills.
@@ -50,8 +53,3 @@ I am an aspiring web developer currently learning and building projects with mod
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000" alt="GitHub" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nellow15&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nellow15?label=GitHub+Followers&color=000000&style=for-the-badge" alt="GitHub Followers" />
-</div>
