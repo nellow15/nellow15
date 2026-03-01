@@ -29,6 +29,7 @@ I am an aspiring web developer currently learning and building projects with mod
 
 ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=FFFFFF&color=646CFF)&nbsp;
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FFFFFF&color=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=000000&labelColor=FFFFFF&color=000000)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=FFFFFF&color=ED8B00)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=FFFFFF&color=00599C)&nbsp;
 ![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=FFFFFF&color=0175C2)&nbsp;
