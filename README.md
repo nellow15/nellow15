@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/OdfLq1y.gif" width="250" alt="Coding Animation" />
+  <img src="https://i.imgur.com/OdfLq1y.gif?v=2" width="250" />
 </p>
 
 I am an aspiring web developer currently learning and building projects with modern web technologies. I'm passionate about creating functional applications and continuously improving my coding skills.
