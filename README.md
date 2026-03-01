@@ -22,6 +22,7 @@ I am an aspiring web developer currently learning and building projects with mod
 #### Technologies I'm Learning
 
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=FFFFFF&color=339933)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=FFFFFF&color=CB3837)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.JS-000000?style=for-the-badge&logo=express&logoColor=000000&labelColor=FFFFFF&color=000000)&nbsp;
 
 #### Development Tools
