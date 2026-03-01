@@ -12,7 +12,7 @@ I am an aspiring web developer currently learning and building projects with mod
 
 #### Languages:
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=FFFFFF&color=F7DF1E)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=FFFFFF&color=F7DF1E)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=FFFFFF&color=777BB4)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=FFFFFF&color=E34F26)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=FFFFFF&color=1572B6)&nbsp;
