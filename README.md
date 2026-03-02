@@ -50,6 +50,7 @@ I am an aspiring web developer currently learning and building projects with mod
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=FFFFFF&color=00599C)&nbsp;
 ![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=FFFFFF&color=0175C2)&nbsp;
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=FFFFFF&color=02569B)&nbsp;
+![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=3DDC84&labelColor=FFFFFF&color=3DDC84)&nbsp;
 
 ## Connect with me
 
