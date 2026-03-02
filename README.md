@@ -55,7 +55,7 @@ I am an aspiring web developer currently learning and building projects with mod
 
 <p align="center">
   <a href="https://discord.gg/ZKaERSqdW5" target="_blank">
-    <img src="https://img.shields.io/discord/1297594228389711923?logo=discord&color=000000&style=for-the-badge&labelColor=white" alt="Discord" />
+    <img src="https://img.shields.io/discord/1297594228389711923?logo=discord&color=000000&label=%20&style=for-the-badge&labelColor=white" alt="Discord" />
   </a>
   <a href="https://www.instagram.com/user_72763782" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=FFFFFF&color=000000" alt="Instagram" />
