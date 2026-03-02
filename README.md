@@ -38,7 +38,7 @@ I am an aspiring web developer currently learning and building projects with mod
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=FFFFFF&color=CB3837)&nbsp;
 ![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=000000&labelColor=FFFFFF&color=000000)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=FFFFFF&color=F05032)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7&labelColor=FFFFFF&color=0078D7)&nbsp;
+![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)&nbsp;
 ![Debian](https://img.shields.io/badge/DEBIAN-d70a53?style=for-the-badge&logo=debian&logoColor=d70a53&labelColor=FFFFFF&color=d70a53)&nbsp;
 
 ## Currently Learning
