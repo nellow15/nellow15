@@ -13,7 +13,7 @@
 
 <hr>
 
-I am an aspiring web developer currently learning and building projects with modern web technologies. I'm passionate about creating functional applications and continuously improving my coding skills.
+I am a web developer focused on building modern, scalable web applications with JavaScript and backend technologies. I enjoy designing APIs, improving system architecture, and developing roleplay game servers. I believe in clean code, performance, and continuous learning.
 
 **Currently Focusing On**:
 - Strengthening backend architecture & API development  
