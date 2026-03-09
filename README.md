@@ -65,6 +65,6 @@ I am a web developer focused on building modern, scalable web applications with 
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000" alt="GitHub" />
   </a>
   <a href="https://about.derrick.web.id" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=FFFFFF&color=000000" alt="Website" />
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&labelColor=FFFFFF&color=000000" alt="Website" />
   </a>
 </p>
