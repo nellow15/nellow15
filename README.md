@@ -64,4 +64,7 @@ I am a web developer focused on building modern, scalable web applications with 
   <a href="https://github.com/nellow15" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000" alt="GitHub" />
   </a>
+  <a href="https://shardox.web.id" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=4285F4&labelColor=FFFFFF&color=000000" alt="Website" />
+  </a>
 </p>
